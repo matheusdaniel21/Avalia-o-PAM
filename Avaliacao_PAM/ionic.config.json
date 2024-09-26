@@ -1,0 +1,7 @@
+{
+  "name": "Avaliacao_PAM",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

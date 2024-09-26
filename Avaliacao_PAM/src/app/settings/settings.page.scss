@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Holtwood+One+SC&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Istok+Web:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+
+.card1{
+    width: 100px;
+    background-color: #F2D95C;
+}
+
+.card2{
+    width: 100px;
+    background-color: #F2F2F2;
+}
+
+.card3{
+    width: 100px;
+    background-color: #F2F2F2;
+}
+
+ion-card-header{
+    width: 140px;
+    margin-left: -20px;
+}
+
+
+.cards{
+    margin-left: 15px;
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+header{
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.menu{
+    margin-top: 10px;
+    width: 50px;
+}
+
+.logo{
+    margin-left: 100px;
+    width: 80px;
+}
+
+.main{
+    margin-left: 25px;
+}
+
+.titulo{
+    font-family: "Holtwood One SC";
+    font-size: 32px;
+}
+
+.subtitulo{
+    font-family: "Istok Web";
+    margin-top: -7px;
+    font-size: 25px;
+}
+
+.texto{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -12px;
+    font-size: 13px;
+}
+
+.preco{
+    font-family: "Istok Web";
+    font-size: 28px;
+    margin-top: -2px;
+}
+
+.valor{
+    margin-left: 30px;
+    color: #164773;
+    font-family: "Holtwood One SC";
+    margin-top: -30px;
+    font-size: 35px;
+}
+
+.textos{
+    color: #164773;
+    margin-left: 30px;
+}
+
+footer{
+    display: flex;
+    flex-direction: row;
+}
+
+.share{
+    margin-top: -42px;
+    height: 90px;
+    margin-left: 140px;
+}
+
+.carrinho{
+    margin-left: -40px;
+    margin-top: -42px;
+    height: 90px;
+}
+
+.usuario{
+    margin-left: 80px;
+    height: 40px;
+}
